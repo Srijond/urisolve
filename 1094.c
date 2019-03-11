@@ -22,9 +22,9 @@ int main()
    printf("Total de coelhos: %d\n",c);
    printf("Total de ratos: %d\n",d);
    printf("Total de sapos: %d\n",f);
-   printf("Percentual de coelhos:%.2lf %%\n",x);
-   printf("Percentual de ratos:%.2lf %%\n",y);
-   printf("Percentual de sapos:%.2lf %%\n",z);
+   printf("Percentual de coelhos: %.2lf %%\n",x);
+   printf("Percentual de ratos: %.2lf %%\n",y);
+   printf("Percentual de sapos: %.2lf %%\n",z);
 
 
 
