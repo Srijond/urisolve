@@ -12,7 +12,7 @@ int main()
                a=b;
                b=temp;
         }
-        if(a%2==0)a--;
+        if(a%2==0){a--;}
         a=a+2;
 
         for(j=a;j<b;j+=2){
